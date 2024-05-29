@@ -11,8 +11,10 @@ Z: Inhale enemies and obstacles
 X: Jump and navigate through the levels
 Use these controls strategically to overcome obstacles, defeat enemies, and progress through the levels.
 Installation and Setup
+
 To run the game locally, follow these steps:
-Clone the repository to your local machine.
+Copy and extract the dist.zip file 
+Alternatively, clone the repository to your local machine.
 Navigate to the project directory in your terminal or command prompt.
 
 Install the required dependencies by running the following command:
